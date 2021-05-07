@@ -1,0 +1,2 @@
+rootProject.name = "StolenApp"
+include ':app'
